@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun ComposeQuadrantCard(modifier: Modifier = Modifier) {
-    
+
 }
 
 @Preview(showBackground = true)
